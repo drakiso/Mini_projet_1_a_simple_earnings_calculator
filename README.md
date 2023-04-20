@@ -1,0 +1,1 @@
+# Mini_projet_1_a_simple_earnings_calculator
